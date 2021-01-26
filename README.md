@@ -23,7 +23,7 @@ Visit the Mars Facts webpage here and use Pandas to scrape the table containing 
 
 Use Pandas to convert the data to a HTML table string.
 Here's a snapshot of how the NASA Mars News, Featured Space Image and the Facts table look like:
-![page](Images/landing_page.png)
+
 
 
 ### Mars Hemispheres
