@@ -19,7 +19,7 @@ Make sure to find the image url to the full size .jpg image.
 Make sure to save a complete url string for this image.
 
 ### Mars Facts
-Visit the Mars Facts webpage here and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
+Visit the Mars Facts webpage here and used Pandas to scrape the table containing facts about the planet including Diameter, Mass, Orbit Distance, Surface Temperature and Orbit Period.
 
 Use Pandas to convert the data to a HTML table string.
 Here's a snapshot of how the NASA Mars News, Featured Space Image and the Facts table look like:
