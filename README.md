@@ -36,7 +36,7 @@ Then, I saved both the image url string for the full resolution hemisphere image
 Appended the dictionary with the image url string and the hemisphere title to a list. This list will contain one dictionary for each hemisphere.
 
 These are screenshots of how Mars hemisperes images look like:
-![page2](Images/mars_hemispheres.png)
+
 
 ## Step 2 - MongoDB and Flask Application
 I used MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
